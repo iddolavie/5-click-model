@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>5 קליקים לפתרון</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .card {
+      width: 150px;
+      text-align: center;
+      background: white;
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+    }
+    .card p {
+      font-weight: bold;
+      margin: 10px 0 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>5 קליקים לפתרון</h1>
+  <div class="gallery" id="gallery"></div>
+
+  <script>
+    fetch('images.json')
+      .then(response => response.json())
+      .then(images => {
+        const container = document.getElementById('gallery');
+        images.forEach(image => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <img src="${image.src}" alt="${image.name}" />
+            <p>${image.label}</p>
+          `;
+          container.appendChild(card);
+        });
+      })
+      .catch(error => console.error('שגיאה בטעינת התמונות:', error));
+  </script>
+</body>
+</html>
