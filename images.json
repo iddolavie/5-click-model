@@ -1,0 +1,237 @@
+[
+  {
+    "name": "acceptance",
+    "label": "acceptance",
+    "src": "images/images/acceptance.png"
+  },
+  {
+    "name": "balance",
+    "label": "balance",
+    "src": "images/images/balance.png"
+  },
+  {
+    "name": "calm",
+    "label": "calm",
+    "src": "images/images/calm.png"
+  },
+  {
+    "name": "clarity",
+    "label": "clarity",
+    "src": "images/images/clarity.png"
+  },
+  {
+    "name": "compassion",
+    "label": "compassion",
+    "src": "images/images/compassion.png"
+  },
+  {
+    "name": "confidence",
+    "label": "confidence",
+    "src": "images/images/confidence.png"
+  },
+  {
+    "name": "courage",
+    "label": "courage",
+    "src": "images/images/courage.png"
+  },
+  {
+    "name": "creativity",
+    "label": "creativity",
+    "src": "images/images/creativity.png"
+  },
+  {
+    "name": "curiosity",
+    "label": "curiosity",
+    "src": "images/images/curiosity.png"
+  },
+  {
+    "name": "direction",
+    "label": "direction",
+    "src": "images/images/direction.png"
+  },
+  {
+    "name": "discipline",
+    "label": "discipline",
+    "src": "images/images/discipline.png"
+  },
+  {
+    "name": "empathy",
+    "label": "empathy",
+    "src": "images/images/empathy.png"
+  },
+  {
+    "name": "energy",
+    "label": "energy",
+    "src": "images/images/energy.png"
+  },
+  {
+    "name": "faith",
+    "label": "fFaith",
+    "src": "images/images/faith.png"
+  },
+  {
+    "name": "flow",
+    "label": "flow",
+    "src": "images/images/flow.png"
+  },
+  {
+    "name": "focus",
+    "label": "focus",
+    "src": "images/images/focus.png"
+  },
+  {
+    "name": "focusOnNow",
+    "label": "focus On Now",
+    "src": "images/images/focusOnNow.png"
+  },
+  {
+    "name": "forgiveness",
+    "label": "forgiveness",
+    "src": "images/images/forgiveness.png"
+  },
+  {
+    "name": "freedom",
+    "label": "freedom",
+    "src": "images/images/freedom.png"
+  },
+  {
+    "name": "gratitude",
+    "label": "gratitude",
+    "src": "images/images/gratitude.png"
+  },
+  {
+    "name": "grounding",
+    "label": "grounding",
+    "src": "images/images/grounding.png"
+  },
+  {
+    "name": "growth",
+    "label": "growth",
+    "src": "images/images/growth.png"
+  },
+  {
+    "name": "healing",
+    "label": "gealing",
+    "src": "images/images/healing.png"
+  },
+  {
+    "name": "hope",
+    "label": "hope",
+    "src": "images/images/hope.png"
+  },
+  {
+    "name": "innerPeace",
+    "label": "inner Peace",
+    "src": "images/images/innerPeace.png"
+  },
+  {
+    "name": "innerStrength",
+    "label": "inner Strength",
+    "src": "images/images/innerStrength.png"
+  },
+  {
+    "name": "joy",
+    "label": "joy",
+    "src": "images/images/joy.png"
+  },
+  {
+    "name": "leadership",
+    "label": "leadership",
+    "src": "images/images/leadership.png"
+  },
+  {
+    "name": "lettingGo",
+    "label": "letting Go",
+    "src": "images/images/lettingGo.png"
+  },
+  {
+    "name": "mentalClarity",
+    "label": "mental Clarity",
+    "src": "images/images/mentalClarity.png"
+  },
+  {
+    "name": "motivation",
+    "label": "motivation",
+    "src": "images/images/motivation.png"
+  },
+  {
+    "name": "openness",
+    "label": "openness",
+    "src": "images/images/openness.png"
+  },
+  {
+    "name": "overcomingObstacles",
+    "label": "overcoming Obstacles",
+    "src": "images/images/overcomingObstacles.png"
+  },
+  {
+    "name": "patience",
+    "label": "patience",
+    "src": "images/images/patience.png"
+  },
+  {
+    "name": "presence",
+    "label": "presence",
+    "src": "images/images/presence.png"
+  },
+  {
+    "name": "presenceOfMind",
+    "label": "presence of Mind",
+    "src": "images/images/presenceOfMind.png"
+  },
+  {
+    "name": "releasingFear",
+    "label": "releasing Fear",
+    "src": "images/images/releasingFear.png"
+  },
+  {
+    "name": "resilience",
+    "label": "resilience",
+    "src": "images/images/resilience.png"
+  },
+  {
+    "name": "selfAwareness",
+    "label": "self Awareness",
+    "src": "images/images/selfAwareness.png"
+  },
+  {
+    "name": "selfCompassion",
+    "label": "self Compassion",
+    "src": "images/images/selfCompassion.png"
+  },
+  {
+    "name": "selfExpression",
+    "label": "self Expression",
+    "src": "images/images/selfExpression.png"
+  },
+  {
+    "name": "stability",
+    "label": "stability",
+    "src": "images/images/stability.png"
+  },
+  {
+    "name": "strength",
+    "label": "strength",
+    "src": "images/images/strength.png"
+  },
+  {
+    "name": "support",
+    "label": "support",
+    "src": "images/images/support.png"
+  },
+  {
+    "name": "trust",
+    "label": "trust",
+    "src": "images/images/trust.png"
+  },
+  {
+    "name": "vision",
+    "label": "vision",
+    "src": "images/images/vision.png"
+  },
+  {
+    "name": "vulnerability",
+    "label": "vulnerability",
+    "src": "images/images/vulnerability.png"
+  }
+]
