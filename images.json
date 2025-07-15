@@ -80,9 +80,9 @@
     "src": "images/images/focus.png"
   },
   {
-    "name": "focusOnNow",
-    "label": "focus On Now",
-    "src": "images/images/focusOnNow.png"
+    "name": "elevate",
+    "label": "elevate",
+    "src": "images/images/elevate.png"
   },
   {
     "name": "forgiveness",
@@ -120,14 +120,14 @@
     "src": "images/images/hope.png"
   },
   {
-    "name": "innerPeace",
-    "label": "inner Peace",
-    "src": "images/images/innerPeace.png"
+    "name": "awaken",
+    "label": "awaken",
+    "src": "images/images/awaken.png"
   },
   {
-    "name": "innerStrength",
-    "label": "inner Strength",
-    "src": "images/images/innerStrength.png"
+    "name": "thriveh",
+    "label": "thriveh",
+    "src": "images/images/thriveh.png"
   },
   {
     "name": "joy",
@@ -140,14 +140,14 @@
     "src": "images/images/leadership.png"
   },
   {
-    "name": "lettingGo",
-    "label": "letting Go",
-    "src": "images/images/lettingGo.png"
+    "name": "expand",
+    "label": "expand",
+    "src": "images/images/expand.png"
   },
   {
-    "name": "mentalClarity",
-    "label": "mental Clarity",
-    "src": "images/images/mentalClarity.png"
+    "name": "unfold",
+    "label": "unfold",
+    "src": "images/images/unfold.png"
   },
   {
     "name": "motivation",
@@ -160,9 +160,9 @@
     "src": "images/images/openness.png"
   },
   {
-    "name": "overcomingObstacles",
-    "label": "overcoming Obstacles",
-    "src": "images/images/overcomingObstacles.png"
+    "name": "overcome",
+    "label": "overcome",
+    "src": "images/images/overcome.png"
   },
   {
     "name": "patience",
@@ -175,14 +175,14 @@
     "src": "images/images/presence.png"
   },
   {
-    "name": "presenceOfMind",
-    "label": "presence of Mind",
-    "src": "images/images/presenceOfMind.png"
+    "name": "mindful",
+    "label": "mindful",
+    "src": "images/images/mindful.png"
   },
   {
-    "name": "releasingFear",
-    "label": "releasing Fear",
-    "src": "images/images/releasingFear.png"
+    "name": "release",
+    "label": "release",
+    "src": "images/images/release.png"
   },
   {
     "name": "resilience",
@@ -190,19 +190,19 @@
     "src": "images/images/resilience.png"
   },
   {
-    "name": "selfAwareness",
-    "label": "self Awareness",
-    "src": "images/images/selfAwareness.png"
+    "name": "revive",
+    "label": "revive",
+    "src": "images/images/revive.png"
   },
   {
-    "name": "selfCompassion",
-    "label": "self Compassion",
-    "src": "images/images/selfCompassion.png"
+    "name": " emerge",
+    "label": " emerge",
+    "src": "images/images/ emerge.png"
   },
   {
-    "name": "selfExpression",
-    "label": "self Expression",
-    "src": "images/images/selfExpression.png"
+    "name": "express",
+    "label": "express",
+    "src": "images/images/express.png"
   },
   {
     "name": "stability",
