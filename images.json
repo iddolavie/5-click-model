@@ -1,0 +1,284 @@
+[
+  {
+    "id": "acceptance",
+    "name": "acceptance",
+    "label": "acceptance",
+    "src": "images/images/acceptance.png"
+  },
+  {
+    "id": "balance",
+    "name": "balance",
+    "label": "balance",
+    "src": "images/images/balance.png"
+  },
+  {
+    "id": "calm",
+    "name": "calm",
+    "label": "calm",
+    "src": "images/images/calm.png"
+  },
+  {
+    "id": "clarity",
+    "name": "clarity",
+    "label": "clarity",
+    "src": "images/images/clarity.png"
+  },
+  {
+    "id": "compassion",
+    "name": "compassion",
+    "label": "compassion",
+    "src": "images/images/compassion.png"
+  },
+  {
+    "id": "confidence",
+    "name": "confidence",
+    "label": "confidence",
+    "src": "images/images/confidence.png"
+  },
+  {
+    "id": "courage",
+    "name": "courage",
+    "label": "courage",
+    "src": "images/images/courage.png"
+  },
+  {
+    "id": "creativity",
+    "name": "creativity",
+    "label": "creativity",
+    "src": "images/images/creativity.png"
+  },
+  {
+    "id": "curiosity",
+    "name": "curiosity",
+    "label": "curiosity",
+    "src": "images/images/curiosity.png"
+  },
+  {
+    "id": "direction",
+    "name": "direction",
+    "label": "direction",
+    "src": "images/images/direction.png"
+  },
+  {
+    "id": "discipline",
+    "name": "discipline",
+    "label": "discipline",
+    "src": "images/images/discipline.png"
+  },
+  {
+    "id": "empathy",
+    "name": "empathy",
+    "label": "empathy",
+    "src": "images/images/empathy.png"
+  },
+  {
+    "id": "energy",
+    "name": "energy",
+    "label": "energy",
+    "src": "images/images/energy.png"
+  },
+  {
+    "id": "faith",
+    "name": "faith",
+    "label": "faith",
+    "src": "images/images/faith.png"
+  },
+  {
+    "id": "flow",
+    "name": "flow",
+    "label": "flow",
+    "src": "images/images/flow.png"
+  },
+  {
+    "id": "focus",
+    "name": "focus",
+    "label": "focus",
+    "src": "images/images/focus.png"
+  },
+  {
+    "id": "elevate",
+    "name": "elevate",
+    "label": "elevate",
+    "src": "images/images/elevate.png"
+  },
+  {
+    "id": "forgiveness",
+    "name": "forgiveness",
+    "label": "forgiveness",
+    "src": "images/images/forgiveness.png"
+  },
+  {
+    "id": "freedom",
+    "name": "freedom",
+    "label": "freedom",
+    "src": "images/images/freedom.png"
+  },
+  {
+    "id": "gratitude",
+    "name": "gratitude",
+    "label": "gratitude",
+    "src": "images/images/gratitude.png"
+  },
+  {
+    "id": "grounding",
+    "name": "grounding",
+    "label": "grounding",
+    "src": "images/images/grounding.png"
+  },
+  {
+    "id": "growth",
+    "name": "growth",
+    "label": "growth",
+    "src": "images/images/growth.png"
+  },
+  {
+    "id": "healing",
+    "name": "healing",
+    "label": "healing",
+    "src": "images/images/healing.png"
+  },
+  {
+    "id": "hope",
+    "name": "hope",
+    "label": "hope",
+    "src": "images/images/hope.png"
+  },
+  {
+    "id": "awaken",
+    "name": "awaken",
+    "label": "awaken",
+    "src": "images/images/awaken.png"
+  },
+  {
+    "id": "thrive",
+    "name": "thrive",
+    "label": "thrive",
+    "src": "images/images/thrive.png"
+  },
+  {
+    "id": "joy",
+    "name": "joy",
+    "label": "joy",
+    "src": "images/images/joy.png"
+  },
+  {
+    "id": "leadership",
+    "name": "leadership",
+    "label": "leadership",
+    "src": "images/images/leadership.png"
+  },
+  {
+    "id": "expand",
+    "name": "expand",
+    "label": "expand",
+    "src": "images/images/expand.png"
+  },
+  {
+    "id": "unfold",
+    "name": "unfold",
+    "label": "unfold",
+    "src": "images/images/unfold.png"
+  },
+  {
+    "id": "motivation",
+    "name": "motivation",
+    "label": "motivation",
+    "src": "images/images/motivation.png"
+  },
+  {
+    "id": "openness",
+    "name": "openness",
+    "label": "openness",
+    "src": "images/images/openness.png"
+  },
+  {
+    "id": "overcome",
+    "name": "overcome",
+    "label": "overcome",
+    "src": "images/images/overcome.png"
+  },
+  {
+    "id": "patience",
+    "name": "patience",
+    "label": "patience",
+    "src": "images/images/patience.png"
+  },
+  {
+    "id": "presence",
+    "name": "presence",
+    "label": "presence",
+    "src": "images/images/presence.png"
+  },
+  {
+    "id": "mindful",
+    "name": "mindful",
+    "label": "mindful",
+    "src": "images/images/mindful.png"
+  },
+  {
+    "id": "release",
+    "name": "release",
+    "label": "release",
+    "src": "images/images/release.png"
+  },
+  {
+    "id": "resilience",
+    "name": "resilience",
+    "label": "resilience",
+    "src": "images/images/resilience.png"
+  },
+  {
+    "id": "revive",
+    "name": "revive",
+    "label": "revive",
+    "src": "images/images/revive.png"
+  },
+  {
+    "id": "emerge",
+    "name": "emerge",
+    "label": "emerge",
+    "src": "images/images/emerge.png"
+  },
+  {
+    "id": "express",
+    "name": "express",
+    "label": "express",
+    "src": "images/images/express.png"
+  },
+  {
+    "id": "stability",
+    "name": "stability",
+    "label": "stability",
+    "src": "images/images/stability.png"
+  },
+  {
+    "id": "strength",
+    "name": "strength",
+    "label": "strength",
+    "src": "images/images/strength.png"
+  },
+  {
+    "id": "support",
+    "name": "support",
+    "label": "support",
+    "src": "images/images/support.png"
+  },
+  {
+    "id": "trust",
+    "name": "trust",
+    "label": "trust",
+    "src": "images/images/trust.png"
+  },
+  {
+    "id": "vision",
+    "name": "vision",
+    "label": "vision",
+    "src": "images/images/vision.png"
+  },
+  {
+    "id": "vulnerability",
+    "name": "vulnerability",
+    "label": "vulnerability",
+    "src": "images/images/vulnerability.png"
+  }
+]
