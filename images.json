@@ -195,9 +195,9 @@
     "src": "images/images/revive.png"
   },
   {
-    "name": " emerge",
-    "label": " emerge",
-    "src": "images/images/ emerge.png"
+    "name": "emerge",
+    "label": "emerge",
+    "src": "images/images/emerge.png"
   },
   {
     "name": "express",
